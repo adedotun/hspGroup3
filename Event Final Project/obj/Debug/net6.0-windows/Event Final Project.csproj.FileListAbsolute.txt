@@ -1,0 +1,30 @@
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\bin\Debug\net6.0-windows\Event Final Project.exe
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\bin\Debug\net6.0-windows\Event Final Project.deps.json
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\bin\Debug\net6.0-windows\Event Final Project.runtimeconfig.json
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\bin\Debug\net6.0-windows\Event Final Project.dll
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\bin\Debug\net6.0-windows\Event Final Project.pdb
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\About.g.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Contact.g.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Feedback.g.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Products.g.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project_MarkupCompile.cache
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project_MarkupCompile.lref
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\About.baml
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Contact.baml
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Feedback.baml
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Products.baml
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Register.baml
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.g.resources
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.AssemblyInfoInputs.cache
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.AssemblyInfo.cs
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.csproj.CoreCompileInputs.cache
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.dll
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\refint\Event Final Project.dll
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.pdb
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\Event Final Project.genruntimeconfig.cache
+C:\Users\naman\source\repos\Event Final Project\Event Final Project\obj\Debug\net6.0-windows\ref\Event Final Project.dll
