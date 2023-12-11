@@ -8,4 +8,14 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="home page 2.avif" />
+    <None Remove="kity 1.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="home page 2.avif" />
+    <Resource Include="kity 1.jpg" />
+  </ItemGroup>
+
 </Project>

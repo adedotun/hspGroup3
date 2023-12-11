@@ -45,5 +45,10 @@ namespace Event_Final_Project
         {
             Main.Content = new About();
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

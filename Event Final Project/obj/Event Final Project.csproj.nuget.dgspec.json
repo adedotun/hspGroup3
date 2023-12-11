@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\naman\\source\\repos\\Event Final Project\\Event Final Project\\Event Final Project.csproj": {}
+    "C:\\Users\\Jerisha Charls\\Source\\Repos\\hspGroup3\\Event Final Project\\Event Final Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\naman\\source\\repos\\Event Final Project\\Event Final Project\\Event Final Project.csproj": {
+    "C:\\Users\\Jerisha Charls\\Source\\Repos\\hspGroup3\\Event Final Project\\Event Final Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\naman\\source\\repos\\Event Final Project\\Event Final Project\\Event Final Project.csproj",
+        "projectUniqueName": "C:\\Users\\Jerisha Charls\\Source\\Repos\\hspGroup3\\Event Final Project\\Event Final Project.csproj",
         "projectName": "Event Final Project",
-        "projectPath": "C:\\Users\\naman\\source\\repos\\Event Final Project\\Event Final Project\\Event Final Project.csproj",
-        "packagesPath": "C:\\Users\\naman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\naman\\source\\repos\\Event Final Project\\Event Final Project\\obj\\",
+        "projectPath": "C:\\Users\\Jerisha Charls\\Source\\Repos\\hspGroup3\\Event Final Project\\Event Final Project.csproj",
+        "packagesPath": "C:\\Users\\Jerisha Charls\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jerisha Charls\\Source\\Repos\\hspGroup3\\Event Final Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\naman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jerisha Charls\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
